@@ -4,5 +4,5 @@ Download the data [here](https://www.kaggle.com/c/facial-keypoints-detection/dat
 
 Create the model: ```facial_key_point_tensorflow_keras```
 
-Load the model by Opencv: ```load_model_cnn_opencv.py``` and ```load_model_ffnn_opencv```
+Load the model by Opencv: ```load_model_cnn_opencv.py``` and ```load_model_ffnn_opencv.py```
 
